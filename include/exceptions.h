@@ -1,24 +1,23 @@
-#pragma once
-
-#define EXCEPTIONS_H
-#define EXCEPTIONS_H
+#ifndef EXCEPTIONS_H
 
 #include <stdio.h>
 #include <iostream>
 #include <stack>
 #include <exception>
 
-namespace Exceptions
+namespace OpenEnigma
 {
-    class Exception
-    {
-    public:
+	class Exception
+	{
+	public:
 
-        char* Message;
-    };
+		char* Message;
+	};
 
-    class FileHandling
-    {
-        
-    };    
+	class FileHandling
+	{
+		
+	};    
 }
+
+#endif
