@@ -1,8 +1,8 @@
 # OpenEnigma
 
-##Cryptography for everyone.
+## Cryptography for everyone.
 
-###Algorithms that this will use:
+### Algorithms that this will use:
 
 * RSA
 * DES
